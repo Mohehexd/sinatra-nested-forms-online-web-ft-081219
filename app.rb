@@ -10,6 +10,7 @@ module FormsLab
   end   
   
     get '/pirates/:id' do 
+      
     end 
   end
 end
